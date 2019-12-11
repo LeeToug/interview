@@ -1,8 +1,11 @@
 # interview
-整理一下PHPer的面试题目。主要有一下几个模块：  
-1.PHP基础知识整理（Basic）  
-2.PHP进阶知识整理（More）  
-3.MYSQL高频问题（MySQL）   
-4.高并发之Redis（Redis）    
-5.Linux常见命令（Linux）   
-6.thinkPHP与laravel（framework）  
+我坚信，机会永远属于有准备的人，我们与其羡慕他人的成功，不如从此刻起，积累足够多的知识和面试经验，为将来进入更好的公司做好充分的准备！
+
+想让面试官在短短的几十分钟内认可你的能力？想在最短的时间内收获 PHP 技术栈最核心的知识点？想要更全面更深入的了解 PHP 技术？这篇文章给你想要的所有答案。
+
+PHP 基础知识  
+PHP 进阶知识  
+MySQL 高频问题  
+Redis 高并发问题  
+Linux 常用操作  
+PHP 框架（Thinkphp5、Laravel）   
